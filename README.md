@@ -4,27 +4,12 @@ An interactive React/Next.js-based platform for music learning and collaboration
 
 ---
 
-## 🚀 Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Available Scripts](#available-scripts)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## 🎯 Features
 
 - Student and instructor roles
 - Course creation and enrollment
 - Lesson delivery and practice tracking
-- JWT authentication
 - Responsive UI
-- Role-based dashboard
 
 ---
 
